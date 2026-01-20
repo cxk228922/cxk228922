@@ -1,21 +1,8 @@
 ## Hi there 👋
-Meow
-<!--
-**cxk228922/cxk228922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Student from Taiwan
+- 18Y (after April)
+- TAIVS CS -> NYCU CS
+- Reverse Engineering
+- Audiophile
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cxk228922)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxk228922&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Recently Played](https://lastfm-recently-played.vercel.app/api?user=cxk228922)
+Experience on my [blog](https://robin-tw.me/about/#experience)
